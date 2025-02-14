@@ -1,0 +1,151 @@
+
+            div{
+                
+                border: 1px solid black;
+                font-size: 20px;
+                height: 80px;
+            }           
+            #nav{
+                background-color: #f4f4f4;
+                border-top: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+				height: 80px;
+					margin:0px;
+					background-color: #1D2F30;
+            }
+            #nav ul{
+                margin-left: 0px;
+                padding-left: 0px;
+                list-style: none;
+            }
+            #nav li { 
+                float: right;
+            }
+            #nav ul a {
+                display: block;
+                width: 7em;
+                padding:10px;
+                text-decoration: none;
+                color: white;
+                text-align: center;
+			
+            }
+            #nav ul a:hover{
+                background-color: #aaa;
+                color: #f4f4f4;
+            }
+			
+			#imk{
+				height: 470px;
+				background-color: white;
+				border:none;	
+			}
+			#imk img{
+				width:3000px;
+				max-width: 100%;
+				height:auto;
+			}
+			
+			#main{
+				background-color: #1D2F30;
+				height: 1470px;
+				border:none;
+			}
+			
+			#steve{
+				background-color: blue;
+				height: 230px;
+				margin-right: 850px;
+			}			
+			
+			#zag {
+				position: absolute;
+				top: 50%;
+				left: 50%;
+				transform: translate(-85%, -70%);
+				color:white;
+				border:none;
+			}
+			
+			#kar 
+			{
+				background-color: #0B1919;
+				width:800px;
+				height:450px;
+				margin-left:50px;
+				border:none;	
+				position: absolute;				
+			}
+			#ktxt 
+			{
+				background-color: #BAE249;
+				width:300px;
+				height:450px;
+				margin-left:900px;
+				border:none;
+				
+			}
+			#kar1 /*Выравнивание*/  {
+				float: left;
+				line-height: 20px;
+				background: #0B1919; 
+				color: white; 
+				margin-left: 15px;
+				margin-top: 60px; 
+				height: 130px;
+				width: 280px;
+				
+				margin-right: 10px; 
+				text-align: center;
+			}
+			#kar2 {
+				float: left;
+				
+				line-height: 120px;
+				margin-left: 55px;
+				margin-top: 30px; 
+				height: 130px;
+				width: 130px;
+				border:none;
+				
+			}
+				#kar2 img {
+				width:250px;
+				max-width: 100%;
+				height:auto;
+				object-fit: scale-down;
+				position:relative;
+				margin-left: 10px;
+			}			
+			#klient
+			{
+				text-align:left;
+				color:white;
+				margin-right: 20px;
+				margin-left: 20px;
+				border:none;
+				
+				position: absolute;
+				left: 0%;
+				right:20%;
+				transform: translate(0%, -70%);	
+			}
+			
+			#kark
+			{
+				background-color: #1D2F30;
+				height: 450px;
+				margin-right: 12px;
+				width:1240px;
+				border:none;	
+			}
+			
+				#karkar img {
+				width:60px;
+				position:relative;
+
+			}
+			#karkar {
+                border:none;				
+			}
+		
